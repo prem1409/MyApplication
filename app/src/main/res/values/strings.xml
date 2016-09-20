@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="enter_your_email_id">Enter your email id</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="register">Register</string>
+    <string name="already_registered_sign_in_here">Already Registered?Sign in here</string>
+    <string-array name="state_name">
+        <item>Utar Pradesh</item>
+        <item>Maharashtra</item>
+        <item>Bihar</item>
+        <item>West Bengal</item>
+        <item>Madhya Pradesh</item>
+        <item>Tamil Nadu</item>
+        <item>Rajasthan</item>
+        <item>Karnataka</item>
+        <item>Gujrat</item>
+
+    </string-array>
+</resources>

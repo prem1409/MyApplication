@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1072585896160",
+    "firebase_url": "https://fir-69df8.firebaseio.com",
+    "project_id": "fir-69df8",
+    "storage_bucket": "fir-69df8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072585896160:android:ebc9ac4c4ccc6434",
+        "android_client_info": {
+          "package_name": "com.example.ramesh.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072585896160-fun09qten7q6smj3g5fpjdt7o1ib1go6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPEMIGNmRvnec7IyCwDsLelIEX3QydH3o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
